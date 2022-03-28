@@ -5,7 +5,7 @@ My name is João Pedro Oliveira
 <hr>
 
 I’m currently learning Front-end Web development! <br>
-I'm also work as Designer and Video Maker 😅
+I also work as a Designer and Video Maker 😅
 
 These are my tools and Technologies
 
