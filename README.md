@@ -22,8 +22,12 @@ These are my tools and Technologies
 <span>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="50px" height="50px"/>
 
-
-
+<hr>
+  
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesantxs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <!--
